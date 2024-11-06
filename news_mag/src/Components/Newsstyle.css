@@ -1,0 +1,5 @@
+.newsitem{
+    display: grid;
+    grid-column: auto;
+    justify-content: space-between;
+}
